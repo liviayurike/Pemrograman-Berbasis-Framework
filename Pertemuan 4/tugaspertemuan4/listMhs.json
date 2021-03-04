@@ -1,0 +1,54 @@
+{
+  "mahasiswa": [
+    {
+      "userId": 1,
+      "id": 1,
+      "NIM": 1841720025,
+      "nama": "LIVIA YURIKE KHURIL MAULA",
+      "alamat": "Jl. Piranha Atas No 264 Malang",
+      "hp": "082228773286",
+      "angkatan": 2018,
+      "status": "AKTIF"
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "NIM": 1741720214,
+      "nama": "IQBAL RAMADANI",
+      "alamat": "Malang",
+      "hp": "081802023523",
+      "angkatan": 2017,
+      "status": "CUTI"
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "NIM": 1641720017,
+      "nama": "RARA PUTRI MAHARANI",
+      "alamat": "SURABAYA",
+      "hp": "085850336931",
+      "angkatan": 2016,
+      "status": "LULUS"
+    },
+    {
+      "userId": 4,
+      "id": 4,
+      "NIM": 1841720064,
+      "nama": "OSA MAHANI SIHONO",
+      "alamat": "BLITAR",
+      "hp": "089665468527",
+      "angkatan": 2018,
+      "status": "AKTIF"
+    },
+    {
+      "userId": 5,
+      "id": 5,
+      "NIM": 1841720041,
+      "nama": "ARDAN ANJUNG KUSUMA",
+      "alamat": "BOJONEGORO",
+      "hp": "085258967800",
+      "angkatan": 2018,
+      "status": "AKTIF"
+    }
+  ]
+}
