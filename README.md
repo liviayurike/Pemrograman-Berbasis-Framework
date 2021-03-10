@@ -1,7 +1,7 @@
 # Pemrograman-Berbasis-Framework
-## Nama : Livia Yurike
-kelas : TI3F
-NIM : 1841720025
+## Nama   : Livia Yurike
+## Kelas  : TI3F
+## NIM    : 1841720025
 
 ## Link Video Youtube
 Pertemuan ! :
@@ -11,7 +11,7 @@ Pertemuan 2 :
 https://www.youtube.com/watch?v=FsplGis9QFk
 
 Pertemuan 3 :
-youtube.com/watch?v=HxSz2XzShRA
+https://www.youtube.com/watch?v=HxSz2XzShRA
 
 Pertemuan 4 :
 https://www.youtube.com/watch?v=_qKFG5NmJUA
