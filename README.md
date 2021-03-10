@@ -4,7 +4,7 @@
 ## NIM    : 1841720025
 
 ## Link Video Youtube
-Pertemuan ! :
+Pertemuan 1 :
 https://www.youtube.com/watch?v=eEge3bZrV-Y
 
 Pertemuan 2 :
