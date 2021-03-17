@@ -23,5 +23,5 @@ https://www.youtube.com/watch?v=_qKFG5NmJUA
 Pertemuan 5 :
 https://www.youtube.com/watch?v=T-go1oWrfsI
 
-Pertemuan 6 "
+Pertemuan 6 :
 https://youtu.be/Y1JozM-qnkk
