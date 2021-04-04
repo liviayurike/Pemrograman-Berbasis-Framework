@@ -1,0 +1,78 @@
+{
+  "mesincuci": [
+    {
+      "id": 1,
+      "nama": "Mesin Cuci Electrolux",
+      "harga": 2900000,
+      "gambar": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2018/05/mesin-cuci-electrolux.jpg",
+      "stok": 5
+    },
+    {
+      "id": 2,
+      "nama": "Mesin Cuci Sharp",
+      "harga": 1230000,
+      "gambar": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2018/05/mesin-cuci-sharp.jpg",
+      "stok": 5
+    },
+    {
+      "id": 3,
+      "nama": "Mesin Cuci LG",
+      "harga": 1200000,
+      "gambar": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2018/05/mesin-cuci-lg.jpg",
+      "stok": 4
+    },
+    {
+      "id": 4,
+      "nama": "Mesin Cuci Sanyo",
+      "harga": 1000000,
+      "gambar": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2018/05/mesin-cuci-sanyo.jpg",
+      "stok": 4
+    },
+    {
+      "id": 5,
+      "nama": "Mesin Cuci Polytron",
+      "harga": 1058000,
+      "gambar": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2018/05/mesin-cuci-polytron.jpg",
+      "stok": 6
+    },
+    {
+      "id": 6,
+      "nama": "Mesin Cuci Panasonic",
+      "harga": 1059000,
+      "gambar": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2018/05/mesin-cuci-panasonic.jpg",
+      "stok": 6
+    },
+    {
+      "id": 7,
+      "nama": "Mesin Cuci Samsung",
+      "harga": 1300000,
+      "gambar": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2018/05/mesin-cuci-samsung.jpg",
+      "stok": 3
+    },
+    {
+      "id": 8,
+      "nama": "Mesin Cuci Hitachi",
+      "harga": 2825000,
+      "gambar": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2018/05/mesin-cuci-hitachi.jpg",
+      "stok": 3
+    },
+    {
+      "id": 9,
+      "nama": "Mesin Cuci Sanken",
+      "harga": 1181000,
+      "gambar": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2018/05/mesin-cuci-sanken.jpg",
+      "stok": 5
+    },
+    {
+      "id": 10,
+      "nama": "Mesin Cuci Midea",
+      "harga": 960000,
+      "gambar": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2018/05/mesin-cuci-midea.jpg",
+      "stok": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

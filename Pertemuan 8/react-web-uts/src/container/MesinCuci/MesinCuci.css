@@ -1,0 +1,65 @@
+.tgh {
+  width: 1297px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+.mesincuci {
+  width: 650px;
+  height: 220px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  display: inline-block;
+}
+
+.gambar-mesincuci {
+  height: 150px;
+  width: 150px;
+  float: left;
+}
+
+.gambar-mesincuci img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.konten-mesincuci {
+  float: left;
+  width: 200%;
+}
+
+.konten-mesincuci div.judul-mesincuci {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.konten-mesincuci .isi-mesincuci {
+  font-size: 25px;
+  margin-right: 100px;
+  width: 50%;
+}
+
+.stok-button {
+  font-size: 24px;
+  margin-right: 20px;
+  width: 50%;
+}
+
+.btn {
+  color: white;
+  border: none;
+  background: #25d700;
+  width: 90px;
+}
+
+.mesincuci .table-mesincuci {
+  font-size: 23px;
+  border: 0px;
+  background-color: azure;
+}

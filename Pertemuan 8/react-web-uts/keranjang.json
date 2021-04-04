@@ -1,0 +1,35 @@
+{
+  "keranjang": [
+    {
+      "id": 1,
+      "nama": "Mesin Cuci Electrolux",
+      "harga": 2900000,
+      "qty": 2
+    },
+    {
+      "id": 2,
+      "nama": "Mesin Cuci Sharp",
+      "harga": 1230000,
+      "stok": 5,
+      "qty": 2
+    },
+    {
+      "id": 3,
+      "nama": "Mesin Cuci LG",
+      "harga": 1200000,
+      "stok": 4,
+      "qty": 1
+    },
+    {
+      "id": 4,
+      "nama": "Mesin Cuci Sanyo",
+      "harga": 1000000,
+      "stok": 4,
+      "qty": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
