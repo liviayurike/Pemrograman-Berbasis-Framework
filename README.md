@@ -28,3 +28,6 @@ https://youtu.be/Y1JozM-qnkk
 
 Pertemuan 7 :
 https://youtu.be/PoyzCnsdnwM
+
+Pertemuan 8 - UTS :
+https://youtu.be/VtsqRZuE01I
