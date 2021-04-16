@@ -31,3 +31,6 @@ https://youtu.be/PoyzCnsdnwM
 
 Pertemuan 8 - UTS :
 https://youtu.be/VtsqRZuE01I
+
+Pertemuan 9 :
+https://www.youtube.com/watch?v=sONdVJdwFU0
