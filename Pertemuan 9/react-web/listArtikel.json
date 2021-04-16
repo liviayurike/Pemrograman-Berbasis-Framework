@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Workshop Amazon Web Services (AWS) untuk Para Dosen Jurusan Teknologi Informasi Polinema",
+      "body": "Jumat (24/1/2020), Jurusan Teknologi Informasi Politeknik Negeri Malang (JTI Polinema). Workshop ini diadakan untuk menunjang performa dan..."
+    },
+    {
+      "userId": 1,
+      "id": 1614677184151,
+      "title": "Seminar Nasional Politeknik Negeri Malang",
+      "body": "Seminar Nasional Politeknik Negeri Malang dilaksanakan di gedung Graha Polinema pada 12/12/2019, ...."
+    }
+  ]
+}
