@@ -34,3 +34,6 @@ https://youtu.be/VtsqRZuE01I
 
 Pertemuan 9 :
 https://www.youtube.com/watch?v=sONdVJdwFU0
+
+Pertemuan 10 :
+https://youtu.be/EVY6LHfY_Q4
