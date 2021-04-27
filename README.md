@@ -37,3 +37,6 @@ https://www.youtube.com/watch?v=sONdVJdwFU0
 
 Pertemuan 10 :
 https://youtu.be/EVY6LHfY_Q4
+
+Pertemuan 11 :
+https://youtu.be/NqLQ_jX_NYg
