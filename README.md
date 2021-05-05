@@ -40,3 +40,6 @@ https://youtu.be/EVY6LHfY_Q4
 
 Pertemuan 11 :
 https://youtu.be/NqLQ_jX_NYg
+
+Pertemuan 12 :
+https://youtu.be/sDKu95djrBk
