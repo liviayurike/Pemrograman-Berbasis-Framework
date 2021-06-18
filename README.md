@@ -43,3 +43,6 @@ https://youtu.be/NqLQ_jX_NYg
 
 Pertemuan 12 :
 https://youtu.be/sDKu95djrBk
+
+Pertemuan UAS :
+https://www.youtube.com/watch?v=Q61rYZNwkfw
